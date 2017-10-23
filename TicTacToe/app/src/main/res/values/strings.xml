@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+    <string name="click_button">Ok</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="username_label">Enter the number..</string>
+    <string name="zero">Result</string>
+</resources>

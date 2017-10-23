@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pranayankittiru/Desktop/Projects/Connect3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/pranayankittiru/Desktop/Projects/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b03a9ed5a11c3ac1700afa26e03968064d66aca7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pranayankittiru/Desktop/Projects/Connect3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="489ca65bb7229d480777d5a0a801dddf5e5ed5d0">
+        <dex dex="/Users/pranayankittiru/Desktop/Projects/Connect3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7033dbc955ac0c3347207097979de5443a30cab6/classes.dex" />
+    </item>
+
+</items>
